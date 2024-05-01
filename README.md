@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">✨ Programando desde 2019<br>📚 Sigo aprendiendo y certificandome<br>🎯 Una de mis Metas es convertirme en un desarrollador mas Completo.<br>🎲 Es divertido programar funcionalides en tiempo real con Sockets.😁</p>
+<p align="left">✨ Programando desde 2019<br>📚 Sigo aprendiendo y certificandome<br>🎯 Una de mis Metas es convertirme en un desarrollador más completo y preparado.<br>🎲 Me fascina programar funcionalidades en tiempo real con Sockets.😁</p>
 
 ###
 
-<h2 align="left">Estoy especializado en estas Tecnologías</h2>
+<h2 align="left">👨🏻‍💻Estoy especializado en estas Tecnologías</h2>
 
 ###
 
@@ -45,5 +45,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=H33Criss.H33Criss&left_text=Visitantes"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="center">⬇️Aquí abajo tienes algunos de mis proyectos ⬇️</h3>
 
 ###
