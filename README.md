@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Mi nombre es Cristóbal Herrera <strong>Ingeniero en Informática</strong>strong>, <br>titulado de la Universidad Federico Santa María</p>
+<p align="left">Mi nombre es Cristóbal Herrera <strong>Ingeniero en Informática</strong>, <br>titulado de la Universidad Federico Santa María</p>
 
 ###
 
