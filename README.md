@@ -1,4 +1,4 @@
-<h1 align="left">Hola👋, buscar un desarrollador?</h1>
+<h1 align="left">Hola👋, buscas un desarrollador?</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Mi nombre es Cristóbal Herrera Ingeniero en Informática, <br>titulado de la Universidad Federico Santa María</p>
+<p align="left">Mi nombre es Cristóbal Herrera <strong>Ingeniero en Informática</strong>strong>, <br>titulado de la Universidad Federico Santa María</p>
 
 ###
 
