@@ -48,14 +48,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=H33Criss.H33Criss&left_text=Visitantes"  />
-</div>
-
-###
-
-<br clear="both">
-
 <h3 align="center">⬇️Aquí abajo tienes algunos de mis proyectos ⬇️</h3>
 
 ###
