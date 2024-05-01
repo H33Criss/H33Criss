@@ -2,15 +2,15 @@
 
 ###
 
+<img align="left" height="100" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png"  />
+
+###
+
 <p align="left">Mi nombre es Cristóbal Herrera Ingeniero en Informática, <br>titulado de la Universidad Federico Santa María</p>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png"  />
-</div>
-
-###
+<br clear="both">
 
 <h2 align="left">Acerca de mí</h2>
 
@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
