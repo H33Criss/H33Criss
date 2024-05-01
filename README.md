@@ -16,13 +16,9 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">📓Acerca de mí</h2>
 
 ###
-
-<br clear="both">
 
 <p align="left">✨ Programando desde 2019<br>📚 Sigo aprendiendo y certificandome<br>🎯 Una de mis Metas es convertirme en un desarrollador más completo y preparado.<br>🎲 Me fascina programar funcionalidades en tiempo real con Sockets.😁</p>
 
@@ -43,7 +39,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" height="40" alt="nestjs logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="15" />
