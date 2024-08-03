@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Programando desde 2019<br>📚 Sigo aprendiendo y certificandome<br>🎯 Una de mis Metas es convertirme en un desarrollador más completo y preparado.<br>🎲 Me fascina programar funcionalidades en tiempo real con Sockets.😁</p>
+<p align="left">✨ Desarrollador de software desde 2019<br>📚 En constante aprendizaje y certificación<br>🎯 Objetivo: Convertirme en un desarrollador integral y altamente capacitado.<br>🎲 Especial interés en desarrollar funcionalidades en tiempo real con Sockets.😁</p>
 
 ###
 
