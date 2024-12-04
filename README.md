@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Desarrollador de software desde 2019<br>📚 En constante aprendizaje y certificación<br>🎯 Objetivo: Convertirme en un desarrollador integral y altamente capacitado.<br>🎲 Especial interés en desarrollar funcionalidades en tiempo real con Sockets.😁</p>
+<p align="left">✨ Desarrollador de software desde 2019<br>📚 En constante aprendizaje y certificación<br>🎯 Objetivo: Convertirme en un desarrollador integral y altamente capacitado.<br>🎲 Especial interés y maestría en desarrollar funcionalidades en tiempo real con Sockets.😁</p>
 
 ###
 
